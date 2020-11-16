@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/JohnKirwan
 organizations:
-  - name: Stanford University
+  - name: Stazione Zoologica Anton Dohrn
     url: ""
 education:
   courses:
