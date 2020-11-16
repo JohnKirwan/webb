@@ -109,7 +109,7 @@ office_hours = [""]
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
 
-# Contact links
+contact_links = [
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = ""},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
