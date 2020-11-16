@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certificates"
 subtitle = ""
 
 # Date format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-title = "[Pharmaceutical Bioinformatics & Applied Pharmaceutical Bioinformatics](http://www.pharmbio.org/)" 
+title = "[Pharmaceutical Bioinformatics & Applied Pharmaceutical Bioinformatics](http://www.pharmbio.org/)"
 organization = "[Uppsala University](https://www.farmbio.uu.se/research/pharmaceutical-bioinformatics/)"
 certificate_url = ""
 date_start = "2020-01-20"     # required field
@@ -49,7 +49,7 @@ description = "Distinction"
 #  date_start = "2019-06-18"
 #  date_end = ""
 #  description = ""
- 
+
  [[item]]
  title = "[Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences)"
  organization = "[Stanford Online](https://online.stanford.edu/)"
