@@ -1,7 +1,6 @@
 ---
 role: Researcher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Invertebrate vision
   - Visually-guided behaviour
@@ -20,8 +19,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/JohnKirwan
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-5537-3574
 organizations:
-  - name: Stanford University
+  - name: Stazione Zoologica Anton Dohrn
     url: ""
 education:
   courses:

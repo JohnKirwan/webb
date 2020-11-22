@@ -1,0 +1,31 @@
+---
+title: "plotaround: Simple plotting of angles on a circle"
+author: "John D. Kirwan"
+date: '2020-03-24'
+output: html_document
+slug: plotaround
+categories: [statistics, data]
+tags: [circular, statistics, R, shiny, angles]
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#knitr::opts_chunk$set(widgetframe_self_contained = FALSE) # default = FALSE
+#knitr::opts_chunk$set(widgetframe_isolate_widgets = TRUE) # default = TRUE
+#library('widgetframe')
+source('Cplot2.R')
+```
+
+Use this shiny app to plot a series of angles on a circle and include summary statistics.
+
+This shiny web app depends on the 'circular' package and the basic plotting function was written by James J. Foster.
+
+If the app does not appear in the box below, try disabling your ad-blocker for this page or go directly to the web app [here](https://johnkirwan.shinyapps.io/plotaround/).
+
+```{r echo=FALSE}
+knitr::include_app('https://johnkirwan.shinyapps.io/plotaround/', height = "800px")
+```
+
+
+
