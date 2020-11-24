@@ -5,6 +5,7 @@ date: '2020-03-10'
 slug: Brittlestar-vision
 categories: [vision, science, zoology]
 tags: [Brittlestar, vision]
+draft: true
 ---
 
 [Lead: who, what, when, where, why, how]
