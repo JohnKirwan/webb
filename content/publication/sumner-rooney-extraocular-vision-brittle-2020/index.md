@@ -21,7 +21,7 @@ tags:
 categories: []
 date: '2020-01-01'
 lastmod: 2020-11-16T22:30:50+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -63,7 +63,7 @@ abstract: Almost all animals can sense light, but only those with spatial vision
   reflect aspect of signal integration. This represents one of the most detailed mechanisms
   for extraocular vision yet proposed and draws interesting parallels with the only
   other confirmed extraocular visual system, that of some sea urchins, which also
-  possess chromatophores
+  possess chromatophores.
 publication: '*Current Biology*'
 url_pdf: https://www.cell.com/current-biology/abstract/S0960-9822(19)31512-X
 doi: 10.1016/j.cub.2019.11.042
