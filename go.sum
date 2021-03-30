@@ -1,7 +1,15 @@
+github.com/wowchemy/wowchemy-hugo-modules v0.29.0 h1:tmZeM85lHRB8U0L6xT5bLFgq6p84CqmjM4FMRK1B1jg=
+github.com/wowchemy/wowchemy-hugo-modules v4.8.0+incompatible h1:bWdYezLML3TZq5H0Rot4Urwl6HBl1uok5xIDOTqcWC8=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201109174124-1ed538027a75/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201204174723-5fa9412f9e76 h1:ZfyIYItmejwZrB7lr/XU+YAacaqTh/KgaEvJSdlqecY=
 github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201204174723-5fa9412f9e76/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210324194200-fda9f39d872e h1:GjAMh6V6/PbiV7RtT5QBzLSFmLH+qhg0vrfQTYRK7qY=
+github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210324194200-fda9f39d872e/go.mod h1:TU3QDPUdBSQnvDP5QVCwjAkBIdVMS/bKFA8jr3eI5AY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201113113155-34a48f8670c8 h1:PFdyfu/Y4NpiDHg/tcPYc7ueyG7KNGzdZc9ORJDZx3U=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201113113155-34a48f8670c8/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201204174723-5fa9412f9e76 h1:3vnocWPhhHgIKoXmFjO16GIn0t7uM/Uc17nLRXDFKVI=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201204174723-5fa9412f9e76/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210324194200-fda9f39d872e h1:pjf3ttOUrGyqXqFE5HD4zROl5nVD7X06ejz5TwLuwtk=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210324194200-fda9f39d872e/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210324194200-fda9f39d872e h1:rhRiyEZRDSdtwpEzMmZdycHudtYrEyoHKfc8mxOpHwE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210324194200-fda9f39d872e/go.mod h1:AKpYbqUVlj0VYsc7Jsxe1o8Ko2yV31A5ZPdfpACcXJw=
