@@ -40,18 +40,19 @@ Don’t be in a rush to defend as this date starts the clock for which you can a
 Eligibility: PhD awarded within last three years (before end of May).
 Human Frontiers funding is awarded to risky projects.  
 
-#### Government of Ireland Postdoctoral Fellowship Funding
-
-[Homepage](https://research.ie/funding/goipd/)  
-Eligibility: PhD awarded within last five years (before end of May).  
-Postdoc funding applicable to the Republic of Ireland. The salary is about 60% of the average working wage; it is a taxable salary, which contributes to pension and social security, rather than a stipend.  
-
 #### DAAD Postdoctoral Researchers International Mobility Experience (PRIME)
 
 [Homepage](https://www.daad.de/en/study-and-research-in-germany/scholarships/postdoctoral-researchers-international-mobility-experience/)  
 Eligibility: PhD graduates (or soon to be).
 Duration: 1.5 years (1 year abroad and 6 months in Germany).
 The deadline is end August. Funding may start in May.  
+
+#### Government of Ireland Postdoctoral Fellowship
+
+[Homepage](https://research.ie/funding/goipd/)  
+Eligibility: PhD awarded within last five years (before June).  
+Duration: 1-2 years.  
+Postdoc funding applicable to the Republic of Ireland. The salary is about 60% of the average working wage; it is a taxable salary, which contributes to pension and social security, rather than a stipend. The application deadline is mid-November. 
 
 #### Swedish Research Council International postdoc grant
 
@@ -73,6 +74,9 @@ The application deadline is mid-September. Total funding is for € 120 000.
 Eligibility: Early career doctoral graduates who have worked as a PhD student or postdoc in Germany for three consecutive years.
 Duration: Up to two years.  
 The award is € 2 000 per month for a single person returning to Germany; a foreign allowance is added if working elsewhere. There is no deadline for this award.  
+
+
+
 
 ### Elsewhere in Europe
 
