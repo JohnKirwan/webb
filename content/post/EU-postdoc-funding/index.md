@@ -35,6 +35,14 @@ Don’t be in a rush to defend as this date starts the clock for which you can a
 
 ### Funding schemes
 
+#### Marie Skłodowska-Curie Independent Fellowships
+
+[Homepage](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)  
+Eligibility: Experienced postdoctoral researchers.  
+Duration: 2 to 3 years.
+
+
+
 #### Human Frontier’s Young Researcher Postdoc Grant
 
 Eligibility: PhD awarded within last three years (before end of May).
@@ -74,9 +82,6 @@ The application deadline is mid-September. Total funding is for € 120 000.
 Eligibility: Early career doctoral graduates who have worked as a PhD student or postdoc in Germany for three consecutive years.
 Duration: Up to two years.  
 The award is € 2 000 per month for a single person returning to Germany; a foreign allowance is added if working elsewhere. There is no deadline for this award.  
-
-
-
 
 ### Elsewhere in Europe
 
