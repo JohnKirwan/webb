@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-I have looked at a few automated object tracking methods, which I have summarized below, which track objects from video recordings and which are suitable for animal behavioural experiments. (Specifically, I have been looking for one to track a single animal across the flat circular base of an arena.) Some of these methods are run using an R frontend, while others use Python. Many use the cross-platform [FFMPEG](https://en.wikipedia.org/wiki/FFmpeg) or [openCV](https://en.wikipedia.org/wiki/OpenCV) libraries, which are separately installed. On Windows, Python may be conveniently managed using [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+I have looked at a few automated object tracking methods, which I have summarized below, which track objects from video recordings and which are suitable for animal behavioural experiments. (Specifically, I have been looking for one to track a single animal across the flat circular base of an arena.) Some of these methods are run using an R frontend, while others use Python. Many use the cross-platform [FFMPEG](https://en.wikipedia.org/wiki/FFmpeg) or [OpenCV](https://en.wikipedia.org/wiki/OpenCV) libraries, which are separately installed. On Windows, Python may be conveniently managed using [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
 Several of these methods use algorithms that learn about the tracking objects or the background and are robust to changes throughout the recording. Some can track multiple animals and aim to keep their identities separate even where they overlap or they change apparent size or shape. Before we get to them, we can consider a few pertinent details of the recordings and analysis.
 
@@ -44,13 +44,15 @@ It is usually possible to define a region of interest (ROI) from the pixel coord
 
 ### Before Tracking
 
-Expect to lose time getting these methods to work, especially if you have not previously set up the requisite software (e.g. ffmpeg or opencv) and especially if using Windows. Unless you are lucky, you may also encounter challenges getting your video files to be read by a particular software package. 
+Expect to lose time getting these methods to work, especially if you have not previously set up the requisite software (e.g. FFMPEG or OpenCV) and especially if using Windows. Unless you are lucky, you may also encounter challenges getting your video files to be read by a particular software package. 
 
 Aim to select your preferred tracking software in advance of video recording, so that you can ensure compatibility with the output video and that test recordings can be successfully tracked.   
 
 ### Recording video
 
-Consider using [Python with opencv](https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html) to record video directly from a webcam or USB camera.
+Consider using [Python with OpenCV](https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html) to record video directly from a webcam or USB camera.
+
+If you subsequently need to convert video to a different format, there are variety of means of doing this which work with the various operating systems.  
 
 ## Packages
 
